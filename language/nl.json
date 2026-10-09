@@ -68,7 +68,7 @@
           "default": "Vorige vraag"
         },
         {
-          "label": "Back button label",
+          "label": "Vorige knop label",
           "default": "Vorige"
         },
         {
@@ -76,7 +76,7 @@
           "default": "Volgende vraag"
         },
         {
-          "label": "Next button label",
+          "label": "Volgende knop label",
           "default": "Volgende"
         },
         {
